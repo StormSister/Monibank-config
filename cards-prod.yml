@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to MoniBank cards related prod APIs "
+  message: "Welcome to MoniBank cards related productiob APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@monibank.com"
