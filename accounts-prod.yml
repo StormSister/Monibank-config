@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Welcome to MoniBank accounts related production APIs "
   contactDetails:
-    name: "Marco Cruz Mecate - Product Owner"
+    name: "Marco Ulises Cruz Mecate - Product Owner"
     email: "{cipher}d223b39932c35bb8f86a0039051e851167cc51fe9861f3a753266989f941cb8722081b0c848ab54518f388d69a145367"
   onCallSupport:
     - (453) 999-9966
