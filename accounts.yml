@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to MoniBank accounts related local APIs"
   contactDetails:
-    name: "Monika Magdalena Gudalewska- Developer"
+    name: "Monika Gudalewska- Developer"
     email: "moni@monibank.com"
   onCallSupport:
     -(555)555-1234
